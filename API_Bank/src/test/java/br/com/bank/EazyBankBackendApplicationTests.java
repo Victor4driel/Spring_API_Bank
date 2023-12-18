@@ -1,4 +1,4 @@
-package br.com.eazybytes;
+package br.com.bank;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
